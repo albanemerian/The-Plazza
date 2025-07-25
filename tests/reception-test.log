@@ -1,0 +1,433 @@
+2025-05-30 14:07:53 - Cook Status Message received: 0x06|invalid|data;
+2025-05-30 14:07:53 - Cook Status from Kitchen #0:
+2025-05-30 14:07:53 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-05-30 14:07:53 - Process library loaded successfully.
+2025-05-30 14:07:53 - Created kitchen process with PID: 654285
+2025-05-30 14:07:53 - Created Kitchen #1
+2025-05-30 14:07:53 - Cook Status Message received: 0x06|1|0:1,1:0;
+2025-05-30 14:07:53 - Kitchen 1 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-05-30 14:07:53 - Cook Status from Kitchen #1:
+2025-05-30 14:07:53 - Cook Status Message received: 0x06|999|0:1,1:0;
+2025-05-30 14:07:53 - Cook Status from Kitchen #999:
+2025-05-30 14:07:53 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-05-30 14:07:53 - Process library loaded successfully.
+2025-05-30 14:07:53 - Created kitchen process with PID: 654310
+2025-05-30 14:07:53 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-05-30 14:07:53 - Process library loaded successfully.
+2025-05-30 14:07:53 - Created kitchen process with PID: 654317
+2025-05-30 14:07:53 - Inactivity Message received: 0x03|1;
+2025-05-30 14:07:53 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-05-30 14:07:53 - Process library loaded successfully.
+2025-05-30 14:07:53 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-05-30 14:07:53 - Process library loaded successfully.
+2025-05-30 14:07:53 - Order Completion Message received: 0x02|1|0:5,1:3;
+2025-05-30 14:07:53 - Created kitchen process with PID: 654323
+2025-05-30 14:07:53 - Created kitchen process with PID: 654325
+2025-05-30 14:07:53 - Refill Message received: 0x04|1|0:10,1:8;
+2025-05-30 14:07:53 - Refill received by Kitchen #1
+2025-05-30 14:07:53 - Queue Message received: 0x05|1|3;
+2025-05-30 14:07:53 - Queue status from Kitchen #1: 3 current orders
+2025-05-30 14:07:53 - Cook Status Message received: 0x06|1|0:1,1:0;
+2025-05-30 14:07:53 - Cook Status from Kitchen #1:
+2025-05-30 14:07:53 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-05-30 14:07:53 - Process library loaded successfully.
+2025-05-30 14:07:53 - Created kitchen process with PID: 654334
+2025-05-30 14:07:54 - Created Kitchen #1
+2025-05-30 14:07:54 - Order Completion Message received: 0x02|1|0:5;
+2025-05-30 14:07:54 - Kitchen 1 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-05-30 14:07:54 - Created Kitchen #999
+2025-05-30 14:07:54 - Kitchen 999 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-05-30 14:07:54 - Created Kitchen #1
+2025-05-30 14:07:54 - Order completed by Kitchen #1
+2025-05-30 14:07:54 - Inactivity Message received: 0x03|1;
+2025-05-30 14:07:54 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-05-30 14:07:54 - Process library loaded successfully.
+2025-05-30 14:07:54 - Created Kitchen #1
+2025-05-30 14:07:54 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-05-30 14:07:54 - Process library loaded successfully.
+2025-05-30 14:07:54 - Refill Message received: 0x04|1|0:10;
+2025-05-30 14:07:54 - Created kitchen process with PID: 654360
+2025-05-30 14:07:54 - Created kitchen process with PID: 654361
+2025-05-30 14:07:54 - Refill received by Kitchen #1
+2025-05-30 14:07:54 - Queue Message received: 0x05|1|5;
+2025-05-30 14:07:54 - Queue status from Kitchen #1: 5 current orders
+2025-05-30 14:07:54 - Cook Status Message received: 0x06|1|0:1;
+2025-05-30 14:07:54 - Cook Status from Kitchen #1:
+2025-05-30 14:07:54 - Created Kitchen #1
+2025-05-30 14:07:54 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-05-30 14:07:54 - Process library loaded successfully.
+2025-05-30 14:07:54 - Created kitchen process with PID: 654365
+2025-05-30 14:07:54 - Inactivity Message received: 0x03|1;
+2025-05-30 14:07:54 - Child process 654310 terminated
+2025-05-30 14:07:54 - Created Kitchen #2
+2025-05-30 14:07:54 - Created Kitchen #2
+2025-05-30 14:07:54 - Kitchen 2 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-05-30 14:07:54 - Child process 654334 terminated
+2025-05-30 14:07:54 - Created Kitchen #1
+2025-05-30 14:07:54 - Kitchen 1 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-05-30 14:07:55 - Order Completion Message received: 0x02|invalid|data;
+2025-05-30 14:07:55 - Refill Message received: 0x04|;
+2025-05-30 14:07:55 - Refill received by Kitchen #0
+2025-05-30 14:07:55 - Queue Message received: 0x05|1|;
+2025-05-30 14:07:55 - Queue status from Kitchen #0: 0 current orders
+2025-05-30 14:07:55 - Inactivity Message received: 0x03|1;
+2025-05-30 14:07:55 - Order Completion Message received: 0x02|1|0:5;
+2025-05-30 14:07:55 - Refill Message received: 0x04|1|0:10;
+2025-05-30 14:07:55 - Refill received by Kitchen #1
+2025-05-30 14:07:55 - Queue Message received: 0x05|1|3;
+2025-05-30 14:07:55 - Queue status from Kitchen #1: 3 current orders
+2025-05-30 14:07:55 - Order Completion Message received: 0x02|999|0:5,1:3;
+2025-05-30 14:07:56 - Order Completion Message received: 0x02|1|0:5,1:3;
+2025-05-30 14:07:56 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-05-30 14:07:56 - Process library loaded successfully.
+2025-05-30 14:07:56 - Created kitchen process with PID: 654450
+2025-05-30 14:07:56 - Created Kitchen #1
+2025-05-30 14:07:56 - Order Completion Message received: 0x02|1|0:5,1:3;
+2025-05-30 14:07:56 - Kitchen 1 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-05-30 14:07:56 - Order completed by Kitchen #1
+2025-05-30 14:07:56 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-05-30 14:07:56 - Process library loaded successfully.
+2025-05-30 14:07:56 - Created kitchen process with PID: 654500
+2025-05-30 14:07:56 - Kitchen 1 Duration: 3 CurrentOrders: 0 QueueSize: 0
+2025-05-30 14:07:56 - Processing order for 0 pizzas of type Unknown
+2025-05-30 14:07:56 - Order may require up to 0 kitchens
+2025-05-30 14:07:56 - Order fully distributed across kitchens
+2025-05-30 14:07:57 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-05-30 14:07:57 - Process library loaded successfully.
+2025-05-30 14:07:57 - Created kitchen process with PID: 654507
+2025-05-30 14:07:57 - Created Kitchen #1
+2025-05-30 14:07:57 - Kitchen 1 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-05-30 14:07:57 - Processing order for 1 pizzas of type regina
+2025-05-30 14:07:57 - Order may require up to 1 kitchens
+2025-05-30 14:07:57 - Current load for Kitchen #1: 0
+2025-05-30 14:07:57 - Sent order for 1 pizzas to Kitchen #1
+2025-05-30 14:07:57 - Order fully distributed across kitchens
+2025-05-30 14:07:57 - Added 1 pizzas to order queue, notifying cooks
+2025-05-30 14:07:57 - Processing order for 5 pizzas of type regina
+2025-05-30 14:07:57 - Order may require up to 2 kitchens
+2025-05-30 14:07:57 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-05-30 14:07:57 - Process library loaded successfully.
+2025-05-30 14:07:57 - Created kitchen process with PID: 654550
+2025-05-30 14:07:57 - Queue Message received: 0x05|999|3;
+2025-05-30 14:07:57 - Queue status from Kitchen #999: 3 current orders
+2025-05-30 14:07:57 - Created Kitchen #1
+2025-05-30 14:07:57 - Processing order for 4 pizzas of type regina
+2025-05-30 14:07:57 - Order may require up to 1 kitchens
+2025-05-30 14:07:57 - Current load for Kitchen #1: 0
+2025-05-30 14:07:57 - Sent order for 4 pizzas to Kitchen #1
+2025-05-30 14:07:57 - Order fully distributed across kitchens
+2025-05-30 14:07:57 - Message received from Kitchen #1: 0x05|1|1;
+0x06|1|0:1:0|1:0:0|;
+
+2025-05-30 14:07:57 - Queue Message received: 0x05|1|1;
+2025-05-30 14:07:57 - Queue status from Kitchen #1: 1 current orders
+2025-05-30 14:07:57 - Cook Status Message received: 0x06|1|0:1:0|1:0:0|;
+2025-05-30 14:07:57 - Cook Status from Kitchen #1:
+2025-05-30 14:07:57 - Kitchen 1 Duration: 0 CurrentOrders: 1 QueueSize: 0
+2025-05-30 14:07:57 - Queue Message received: 0x05|1|3;
+2025-05-30 14:07:57 - Queue status from Kitchen #1: 3 current orders
+2025-05-30 14:07:57 - Child process 654325 terminated
+2025-05-30 14:07:57 - Child process 654323 terminated
+2025-05-30 14:07:57 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-05-30 14:07:57 - Process library loaded successfully.
+2025-05-30 14:07:57 - Created kitchen process with PID: 654560
+2025-05-30 14:07:57 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-05-30 14:07:57 - Process library loaded successfully.
+2025-05-30 14:07:57 - Created kitchen process with PID: 654564
+2025-05-30 14:07:57 - Created Kitchen #0
+2025-05-30 14:07:57 - Kitchen 0 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-05-30 14:07:57 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-05-30 14:07:57 - Process library loaded successfully.
+2025-05-30 14:07:57 - Created kitchen process with PID: 654571
+2025-05-30 14:07:57 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-05-30 14:07:57 - Process library loaded successfully.
+2025-05-30 14:07:57 - Created kitchen process with PID: 654575
+2025-05-30 14:07:58 - Kitchen 1 Duration: 1 CurrentOrders: 1 QueueSize: 0
+2025-05-30 14:07:58 - Refill Message received: 0x04|999|0:10,1:8;
+2025-05-30 14:07:58 - Refill received by Kitchen #999
+2025-05-30 14:07:58 - Created Kitchen #1
+2025-05-30 14:07:58 - Queue Message received: 0x05|1|3;
+2025-05-30 14:07:58 - Kitchen 1 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-05-30 14:07:58 - Queue status from Kitchen #1: 3 current orders
+2025-05-30 14:07:58 - Created Kitchen #1
+2025-05-30 14:07:58 - Sent order for 4 pizzas to new Kitchen #0
+2025-05-30 14:07:58 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-05-30 14:07:58 - Process library loaded successfully.
+2025-05-30 14:07:58 - Created kitchen process with PID: 654619
+2025-05-30 14:07:58 - Added 4 pizzas to order queue, notifying cooks
+2025-05-30 14:07:58 - Message received from Kitchen #0: 0x05|0|4;
+
+2025-05-30 14:07:58 - Queue Message received: 0x05|0|4;
+2025-05-30 14:07:58 - Queue status from Kitchen #0: 4 current orders
+2025-05-30 14:07:58 - Created Kitchen #1
+2025-05-30 14:07:58 - Inactivity Message received: 0x03|1;
+2025-05-30 14:07:58 - Kitchen 1 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-05-30 14:07:58 - Created Kitchen #1
+2025-05-30 14:07:58 - Order Completion Message received: 0x02|1|0:5,1:3;
+2025-05-30 14:07:58 - Order completed by Kitchen #1
+2025-05-30 14:07:58 - Refill Message received: 0x04|1|0:10,1:8;
+2025-05-30 14:07:58 - Refill received by Kitchen #1
+2025-05-30 14:07:58 - Queue Message received: 0x05|1|3;
+2025-05-30 14:07:58 - Queue status from Kitchen #1: 3 current orders
+2025-05-30 14:07:58 - Refill Message received: 0x04|1|0:10,1:8;
+2025-05-30 14:07:58 - Refill received by Kitchen #1
+2025-05-30 14:07:58 - Created Kitchen #1
+2025-05-30 14:07:58 - Kitchen 0 Duration: 0 CurrentOrders: 4 QueueSize: 2
+2025-05-30 14:07:58 - Message received from Kitchen #0: 0x06|0|0:1:0|1:0:0|;
+0x06|0|0:1:0|1:1:0|;
+
+2025-05-30 14:07:58 - Cook Status Message received: 0x06|0|0:1:0|1:0:0|;
+2025-05-30 14:07:58 - Child process 654571 terminated
+2025-05-30 14:07:58 - Cook Status from Kitchen #0:
+2025-05-30 14:07:58 - Cook Status Message received: 0x06|0|0:1:0|1:1:0|;
+2025-05-30 14:07:58 - Kitchen 1 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-05-30 14:07:58 - Cook Status from Kitchen #0:
+2025-05-30 14:07:59 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-05-30 14:07:59 - Process library loaded successfully.
+2025-05-30 14:07:59 - Created kitchen process with PID: 654629
+2025-05-30 14:07:59 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-05-30 14:07:59 - Process library loaded successfully.
+2025-05-30 14:07:59 - Created kitchen process with PID: 654633
+2025-05-30 14:07:59 - Sent order for 1 pizzas to new Kitchen #1
+2025-05-30 14:07:59 - Order fully distributed across kitchens
+2025-05-30 14:07:59 - Child process 654619 terminated
+2025-05-30 14:07:59 - Created Kitchen #1
+2025-05-30 14:07:59 - Refill Message received: 0x04|1|0:10,1:8;
+2025-05-30 14:07:59 - Kitchen 1 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-05-30 14:07:59 - Refill received by Kitchen #1
+2025-05-30 14:07:59 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-05-30 14:07:59 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-05-30 14:07:59 - Process library loaded successfully.
+2025-05-30 14:07:59 - Process library loaded successfully.
+2025-05-30 14:07:59 - Created kitchen process with PID: 654687
+2025-05-30 14:07:59 - Created kitchen process with PID: 654688
+2025-05-30 14:07:59 - Created Kitchen #1
+2025-05-30 14:07:59 - Kitchen 1 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-05-30 14:07:59 - Sent order to Kitchen #1: invalid_order_format
+
+2025-05-30 14:08:00 - Created Kitchen #1
+2025-05-30 14:08:00 - Created Kitchen #1
+2025-05-30 14:08:00 - Sent order to Kitchen #1: 0x01|1|1|1;
+
+2025-05-30 14:08:00 - Sent order to Kitchen #1: 0x01|1|1|1;
+
+2025-05-30 14:08:00 - Kitchen 1 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-05-30 14:08:02 - Kitchen 1 Duration: 3 CurrentOrders: 0 QueueSize: 0
+2025-06-02 09:30:57 - Cook Status Message received: 0x06|invalid|data;
+2025-06-02 09:30:57 - Cook Status from Kitchen #0:
+2025-06-02 09:30:57 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-06-02 09:30:57 - Process library loaded successfully.
+2025-06-02 09:30:57 - Created kitchen process with PID: 109416
+2025-06-02 09:30:58 - Cook Status Message received: 0x06|999|0:1,1:0;
+2025-06-02 09:30:58 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-06-02 09:30:58 - Process library loaded successfully.
+2025-06-02 09:30:58 - Created kitchen process with PID: 109424
+2025-06-02 09:30:58 - Cook Status from Kitchen #999:
+2025-06-02 09:30:58 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-06-02 09:30:58 - Inactivity Message received: 0x03|1;
+2025-06-02 09:30:58 - Process library loaded successfully.
+2025-06-02 09:30:58 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-06-02 09:30:58 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-06-02 09:30:58 - Process library loaded successfully.
+2025-06-02 09:30:58 - Process library loaded successfully.
+2025-06-02 09:30:58 - Created kitchen process with PID: 109436
+2025-06-02 09:30:58 - Order Completion Message received: 0x02|1|0:5,1:3;
+2025-06-02 09:30:58 - Created kitchen process with PID: 109437
+2025-06-02 09:30:58 - Created kitchen process with PID: 109438
+2025-06-02 09:30:58 - Refill Message received: 0x04|1|0:10,1:8;
+2025-06-02 09:30:58 - Refill received by Kitchen #1
+2025-06-02 09:30:58 - Queue Message received: 0x05|1|3;
+2025-06-02 09:30:58 - Queue status from Kitchen #1: 3 current orders
+2025-06-02 09:30:58 - Cook Status Message received: 0x06|1|0:1,1:0;
+2025-06-02 09:30:58 - Cook Status from Kitchen #1:
+2025-06-02 09:30:58 - Created Kitchen #1
+2025-06-02 09:30:58 - Cook Status Message received: 0x06|1|0:1,1:0;
+2025-06-02 09:30:58 - Kitchen 1 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-06-02 09:30:58 - Cook Status from Kitchen #1:
+2025-06-02 09:30:58 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-06-02 09:30:58 - Process library loaded successfully.
+2025-06-02 09:30:58 - Created kitchen process with PID: 109448
+2025-06-02 09:30:58 - Created Kitchen #1
+2025-06-02 09:30:58 - Order Completion Message received: 0x02|1|0:5;
+2025-06-02 09:30:58 - Kitchen 1 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-06-02 09:30:58 - Order completed by Kitchen #1
+2025-06-02 09:30:58 - Inactivity Message received: 0x03|1;
+2025-06-02 09:30:58 - Refill Message received: 0x04|1|0:10;
+2025-06-02 09:30:58 - Refill received by Kitchen #1
+2025-06-02 09:30:58 - Queue Message received: 0x05|1|5;
+2025-06-02 09:30:58 - Queue status from Kitchen #1: 5 current orders
+2025-06-02 09:30:58 - Cook Status Message received: 0x06|1|0:1;
+2025-06-02 09:30:58 - Cook Status from Kitchen #1:
+2025-06-02 09:30:58 - Created Kitchen #999
+2025-06-02 09:30:58 - Created Kitchen #1
+2025-06-02 09:30:58 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-06-02 09:30:58 - Created Kitchen #1
+2025-06-02 09:30:58 - Kitchen 999 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-06-02 09:30:58 - Process library loaded successfully.
+2025-06-02 09:30:58 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-06-02 09:30:58 - Process library loaded successfully.
+2025-06-02 09:30:58 - Created kitchen process with PID: 109474
+2025-06-02 09:30:58 - Created kitchen process with PID: 109475
+2025-06-02 09:30:58 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-06-02 09:30:58 - Process library loaded successfully.
+2025-06-02 09:30:58 - Created kitchen process with PID: 109486
+2025-06-02 09:30:58 - Created Kitchen #1
+2025-06-02 09:30:58 - Kitchen 1 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-06-02 09:30:58 - Inactivity Message received: 0x03|1;
+2025-06-02 09:30:59 - Child process 109424 terminated
+2025-06-02 09:30:59 - Created Kitchen #2
+2025-06-02 09:30:59 - Created Kitchen #2
+2025-06-02 09:30:59 - Kitchen 2 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-06-02 09:30:59 - Created Kitchen #1
+2025-06-02 09:30:59 - Order Completion Message received: 0x02|invalid|data;
+2025-06-02 09:30:59 - Refill Message received: 0x04|;
+2025-06-02 09:30:59 - Refill received by Kitchen #0
+2025-06-02 09:30:59 - Queue Message received: 0x05|1|;
+2025-06-02 09:30:59 - Queue status from Kitchen #0: 0 current orders
+2025-06-02 09:30:59 - Child process 109448 terminated
+2025-06-02 09:30:59 - Kitchen 1 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-06-02 09:30:59 - Inactivity Message received: 0x03|1;
+2025-06-02 09:30:59 - Order Completion Message received: 0x02|1|0:5;
+2025-06-02 09:30:59 - Refill Message received: 0x04|1|0:10;
+2025-06-02 09:30:59 - Refill received by Kitchen #1
+2025-06-02 09:30:59 - Queue Message received: 0x05|1|3;
+2025-06-02 09:30:59 - Queue status from Kitchen #1: 3 current orders
+2025-06-02 09:30:59 - Order Completion Message received: 0x02|999|0:5,1:3;
+2025-06-02 09:30:59 - Order Completion Message received: 0x02|1|0:5,1:3;
+2025-06-02 09:30:59 - Child process 109486 terminated
+2025-06-02 09:30:59 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-06-02 09:30:59 - Process library loaded successfully.
+2025-06-02 09:30:59 - Created kitchen process with PID: 109564
+2025-06-02 09:30:59 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-06-02 09:30:59 - Process library loaded successfully.
+2025-06-02 09:30:59 - Created kitchen process with PID: 109595
+2025-06-02 09:30:59 - Processing order for 0 pizzas of type Unknown
+2025-06-02 09:30:59 - Order may require up to 0 kitchens
+2025-06-02 09:30:59 - Order fully distributed across kitchens
+2025-06-02 09:31:00 - Created Kitchen #1
+2025-06-02 09:31:00 - Order Completion Message received: 0x02|1|0:5,1:3;
+2025-06-02 09:31:00 - Kitchen 1 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-06-02 09:31:00 - Order completed by Kitchen #1
+2025-06-02 09:31:00 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-06-02 09:31:00 - Process library loaded successfully.
+2025-06-02 09:31:00 - Created kitchen process with PID: 109606
+2025-06-02 09:31:00 - Processing order for 5 pizzas of type regina
+2025-06-02 09:31:00 - Order may require up to 2 kitchens
+2025-06-02 09:31:00 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-06-02 09:31:00 - Process library loaded successfully.
+2025-06-02 09:31:00 - Created kitchen process with PID: 109610
+2025-06-02 09:31:00 - Created Kitchen #1
+2025-06-02 09:31:00 - Kitchen 1 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-06-02 09:31:00 - Processing order for 1 pizzas of type regina
+2025-06-02 09:31:00 - Order may require up to 1 kitchens
+2025-06-02 09:31:00 - Current load for Kitchen #1: 0
+2025-06-02 09:31:00 - Sent order for 1 pizzas to Kitchen #1
+2025-06-02 09:31:00 - Order fully distributed across kitchens
+2025-06-02 09:31:00 - Added 1 pizzas to order queue, notifying cooks
+2025-06-02 09:31:00 - Queue Message received: 0x05|999|3;
+2025-06-02 09:31:00 - Queue status from Kitchen #999: 3 current orders
+2025-06-02 09:31:00 - Created Kitchen #1
+2025-06-02 09:31:00 - Processing order for 4 pizzas of type regina
+2025-06-02 09:31:00 - Order may require up to 1 kitchens
+2025-06-02 09:31:00 - Current load for Kitchen #1: 0
+2025-06-02 09:31:00 - Sent order for 4 pizzas to Kitchen #1
+2025-06-02 09:31:00 - Order fully distributed across kitchens
+2025-06-02 09:31:00 - Created Kitchen #0
+2025-06-02 09:31:00 - Kitchen 0 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-06-02 09:31:00 - Message received from Kitchen #1: 0x05|1|1;
+0x06|1|0:1:0|1:0:0|;
+
+2025-06-02 09:31:00 - Queue Message received: 0x05|1|1;
+2025-06-02 09:31:00 - Queue status from Kitchen #1: 1 current orders
+2025-06-02 09:31:00 - Cook Status Message received: 0x06|1|0:1:0|1:0:0|;
+2025-06-02 09:31:00 - Cook Status from Kitchen #1:
+2025-06-02 09:31:00 - Kitchen 1 Duration: 0 CurrentOrders: 1 QueueSize: 0
+2025-06-02 09:31:00 - Queue Message received: 0x05|1|3;
+2025-06-02 09:31:00 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-06-02 09:31:00 - Process library loaded successfully.
+2025-06-02 09:31:00 - Queue status from Kitchen #1: 3 current orders
+2025-06-02 09:31:00 - Created kitchen process with PID: 109656
+2025-06-02 09:31:00 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-06-02 09:31:00 - Process library loaded successfully.
+2025-06-02 09:31:00 - Created kitchen process with PID: 109666
+2025-06-02 09:31:01 - Sent order for 4 pizzas to new Kitchen #0
+2025-06-02 09:31:01 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-06-02 09:31:01 - Process library loaded successfully.
+2025-06-02 09:31:01 - Created kitchen process with PID: 109670
+2025-06-02 09:31:01 - Added 4 pizzas to order queue, notifying cooks
+2025-06-02 09:31:01 - Message received from Kitchen #0: 0x05|0|4;
+
+2025-06-02 09:31:01 - Queue Message received: 0x05|0|4;
+2025-06-02 09:31:01 - Queue status from Kitchen #0: 4 current orders
+2025-06-02 09:31:01 - Kitchen 1 Duration: 1 CurrentOrders: 1 QueueSize: 0
+2025-06-02 09:31:01 - Created Kitchen #1
+2025-06-02 09:31:01 - Queue Message received: 0x05|1|3;
+2025-06-02 09:31:01 - Kitchen 1 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-06-02 09:31:01 - Queue status from Kitchen #1: 3 current orders
+2025-06-02 09:31:01 - Created Kitchen #1
+2025-06-02 09:31:01 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-06-02 09:31:01 - Process library loaded successfully.
+2025-06-02 09:31:01 - Created kitchen process with PID: 109677
+2025-06-02 09:31:01 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-06-02 09:31:01 - Process library loaded successfully.
+2025-06-02 09:31:01 - Created kitchen process with PID: 109687
+2025-06-02 09:31:01 - Created Kitchen #1
+2025-06-02 09:31:01 - Kitchen 1 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-06-02 09:31:01 - Kitchen 0 Duration: 0 CurrentOrders: 4 QueueSize: 2
+2025-06-02 09:31:01 - Message received from Kitchen #0: 0x06|0|0:1:0|1:0:0|;
+0x06|0|0:1:0|1:1:0|;
+
+2025-06-02 09:31:01 - Cook Status Message received: 0x06|0|0:1:0|1:0:0|;
+2025-06-02 09:31:01 - Cook Status from Kitchen #0:
+2025-06-02 09:31:01 - Cook Status Message received: 0x06|0|0:1:0|1:1:0|;
+2025-06-02 09:31:01 - Cook Status from Kitchen #0:
+2025-06-02 09:31:01 - Created Kitchen #1
+2025-06-02 09:31:01 - Inactivity Message received: 0x03|1;
+2025-06-02 09:31:02 - Child process 109437 terminated
+2025-06-02 09:31:02 - Child process 109438 terminated
+2025-06-02 09:31:02 - Created Kitchen #1
+2025-06-02 09:31:02 - Order Completion Message received: 0x02|1|0:5,1:3;
+2025-06-02 09:31:02 - Refill Message received: 0x04|999|0:10,1:8;
+2025-06-02 09:31:02 - Refill Message received: 0x04|1|0:10,1:8;
+2025-06-02 09:31:02 - Order completed by Kitchen #1
+2025-06-02 09:31:02 - Refill received by Kitchen #999
+2025-06-02 09:31:02 - Refill Message received: 0x04|1|0:10,1:8;
+2025-06-02 09:31:02 - Refill received by Kitchen #1
+2025-06-02 09:31:02 - Refill received by Kitchen #1
+2025-06-02 09:31:02 - Queue Message received: 0x05|1|3;
+2025-06-02 09:31:02 - Queue status from Kitchen #1: 3 current orders
+2025-06-02 09:31:02 - Sent order for 1 pizzas to new Kitchen #1
+2025-06-02 09:31:02 - Order fully distributed across kitchens
+2025-06-02 09:31:02 - Added 1 pizzas to order queue, notifying cooks
+2025-06-02 09:31:02 - Message received from Kitchen #1: 0x05|1|1;
+
+2025-06-02 09:31:02 - Queue Message received: 0x05|1|1;
+2025-06-02 09:31:02 - Queue status from Kitchen #1: 1 current orders
+2025-06-02 09:31:02 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-06-02 09:31:02 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-06-02 09:31:02 - Process library loaded successfully.
+2025-06-02 09:31:02 - Process library loaded successfully.
+2025-06-02 09:31:02 - Created kitchen process with PID: 109742
+2025-06-02 09:31:02 - Created kitchen process with PID: 109743
+2025-06-02 09:31:02 - Child process 109677 terminated
+2025-06-02 09:31:02 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-06-02 09:31:02 - Process library loaded successfully.
+2025-06-02 09:31:02 - Created kitchen process with PID: 109747
+2025-06-02 09:31:02 - Child process 109687 terminated
+2025-06-02 09:31:02 - Attempting to load process library from: ./plugins/plazza_fork.so
+2025-06-02 09:31:02 - Process library loaded successfully.
+2025-06-02 09:31:02 - Created kitchen process with PID: 109757
+2025-06-02 09:31:02 - Created Kitchen #1
+2025-06-02 09:31:02 - Refill Message received: 0x04|1|0:10,1:8;
+2025-06-02 09:31:02 - Created Kitchen #1
+2025-06-02 09:31:02 - Kitchen 1 Duration: 0 CurrentOrders: 0 QueueSize: 0
+2025-06-02 09:31:02 - Refill received by Kitchen #1
+2025-06-02 09:31:02 - Sent order to Kitchen #1: invalid_order_format
+
+2025-06-02 09:31:02 - Created Kitchen #1
+2025-06-02 09:31:02 - Sent order to Kitchen #1: 0x01|1|1|1;
+
+2025-06-02 09:31:03 - Created Kitchen #1
+2025-06-02 09:31:03 - Sent order to Kitchen #1: 0x01|1|1|1;
+
+2025-06-02 09:31:05 - Kitchen 1 Duration: 3 CurrentOrders: 0 QueueSize: 0
